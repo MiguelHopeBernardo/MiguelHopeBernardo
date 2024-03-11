@@ -1,7 +1,7 @@
-[![MasterHead](https://steamuserimages-a.akamaihd.net/ugc/2117311996138811676/76972BDE9EC471A6997FDC054B405B1B9D4600B2/?imw=498&imh=280&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true)](https://diep.io)
+<img align="right" alt="Coding" width="1000" src="https://media1.tenor.com/m/EC6mBMhIRugAAAAC/frieren-beyond-journey%27s-end-sousou-no-frieren.gif">love ko si raine
 <h1 align="center">Hi 👋, I'm Migo</h1>
 <h3 align="center">raine's husband</h3>
-<img align="right" alt="Coding" width="1000" src="https://media1.tenor.com/m/EC6mBMhIRugAAAAC/frieren-beyond-journey%27s-end-sousou-no-frieren.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miguelhopebernardo&label=Profile%20views&color=0e75b6&style=flat" alt="miguelhopebernardo" /> </p>
 
