@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="1000" src="https://media1.tenor.com/m/EC6mBMhIRugAAAAC/frieren-beyond-journey%27s-end-sousou-no-frieren.gif">love ko si raine
+<img align="right" alt="Coding" width="1000" src="https://media1.tenor.com/m/EC6mBMhIRugAAAAC/frieren-beyond-journey%27s-end-sousou-no-frieren.gif">    
 <h1 align="center">Hi 👋, I'm Migo</h1>
 <h3 align="center">raine's husband</h3>
 
