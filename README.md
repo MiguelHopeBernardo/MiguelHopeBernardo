@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="1000" src="https://pbs.twimg.com/profile_banners/4012597518/1722888743/1500x500">♥
+<img align="right" alt="Coding" width="1000" src="https://pbs.twimg.com/profile_banners/4012597518/1722888743/1500x500"><br>
 <h1 align="center">Hi 👋, I'm Migo</h1>
 <h3 align="center">Raine's husband</h3>
 
