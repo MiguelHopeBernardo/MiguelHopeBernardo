@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/immigone" target="blank"><img src="https://img.shields.io/twitter/follow/immigone?logo=twitter&style=for-the-badge" alt="immigone" /></a> </p>
 
-- 🔭 I’m currently working on **Web Development and understanding Database**
+- 🔭 I’m currently working on **Capstone and Emerging Technologies like AI Chatbots and Machine Learning like LightGBM**
 
-- 🌱 I’m currently learning **ASP.Net, MSSQL**
+- 🌱 I’m currently learning **Django, ASP.Net, PostgreSQL**
 
 - 💬 Ask me about **Flutterflow, HTML, Python, CSS**
 
